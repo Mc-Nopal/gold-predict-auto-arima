@@ -1,0 +1,23 @@
+# --- Python Virtual Environments ---
+venv/
+env/
+ENV/
+.venv/
+
+# --- Python Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Streamlit Cache ---
+.streamlit/
+
+# --- IDE & Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
