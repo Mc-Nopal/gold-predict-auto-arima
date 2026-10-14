@@ -40,7 +40,7 @@ gold-predict-arima/
 1. Clone repository
 
 ```
-   git clone [https://github.com/username-mu/gold-predict-arima.git](https://github.com/Mc-Nopal/gold-predict-arima.git)
+   git clone https://github.com/Mc-Nopal/gold-predict-arima.git
    cd gold-predict-arima
 ```
 
@@ -48,13 +48,17 @@ gold-predict-arima/
 
 ```
    python -m venv venv
+```
 
 - Windows:
 
+```
 venv\Scripts\activate
+```
 
 - macOS/Linux:
 
+```
 source venv/bin/activate
 ```
 
